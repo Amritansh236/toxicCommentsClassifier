@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+nltk
+joblib
+mlflow
+fastapi
+uvicorn
+streamlit
+plotly
+requests
